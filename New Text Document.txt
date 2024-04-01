@@ -1,0 +1,131 @@
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 60.55px;
+
+position: absolute;
+width: 2177.29px;
+height: 542px;
+left: -79px;
+top: 752px;
+overflow-x: scroll;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image.png);
+border: 1.16434px solid #FFFFFF;
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 6 */
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image);
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image.png);
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 9 */
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image);
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 10 */
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image.png);
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Rectangle 11 */
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image.png);
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Rectangle 12 */
+
+width: 299.24px;
+height: 392.38px;
+
+background: url(image.png);
+box-shadow: 27.9441px 10.4791px 61.71px 8.15038px rgba(0, 0, 0, 0.25);
+border-radius: 27.9441px;
+transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
