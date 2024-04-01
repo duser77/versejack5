@@ -1,7 +1,7 @@
 import "./Pricing.css";
-import { Span } from "next/dist/trace";
-import PricingBox from "./PricingBox";
-import PricingBox2 from "./PricingBox2";
+// import { Span } from "next/dist/trace";
+// import PricingBox from "./PricingBox";
+// import PricingBox2 from "./PricingBox2";
 import PricingBox3 from "./code/pricingBox3";
 
 export default function Pricing() {
